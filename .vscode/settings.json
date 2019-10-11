@@ -1,0 +1,21 @@
+{
+    "files.exclude": {  
+        "**/.git": true,  
+        "**/.svn": true,  
+        "**/.hg": true,  
+        "**/.DS_Store": true,  
+        "**/*.o": true,  
+        "**/*.pdb": true,  
+        "**/*.dll": true, 
+        "**/*.exp": true,
+        "**/*.exe": true,
+        "**/*.ilk": true,
+        "**/*.lib": true
+    } , 
+    "editor.wordWrap": "on",
+    // 是否显示LuaIde 当前使用人数
+    "luaide.showOnLine": true,
+    "workbench.editor.enablePreview": false,
+    "editor.fontSize": 14
+    
+}
